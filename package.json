@@ -1,0 +1,23 @@
+{
+  "name": "node_dependencies",
+  "version": "1.0.0",
+  "description": "get the modules your project relies on, as JSON and more",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AR-Student824/node-dependencies.git"
+  },
+  "author": "arcodez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AR-Student824/node-dependencies/issues"
+  },
+  "homepage": "https://github.com/AR-Student824/node-dependencies#readme",
+  "dependencies": {
+    "testing": "^2.0.1"
+  }
+}
